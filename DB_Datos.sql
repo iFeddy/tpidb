@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 80012
 File Encoding         : 65001
 
-Date: 2018-10-28 14:04:02
+Date: 2018-10-28 15:11:26
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -103,6 +103,7 @@ COMMIT;
 -- Records of planillaviajes
 -- ----------------------------
 BEGIN;
+INSERT INTO `planillaviajes` (`pvID`, `pvParadas`, `pvCliente`, `pvTipoBoleto`, `pvClienteDNI`, `pvRecorrido`, `pvFecha`) VALUES ('1', 'Av. Belgrano, Maipu', 'ARIEL AUGSBURGER ', 'Comun', '38584115', 'Lanus - Correo Central', '2018-10-28'), ('2', 'Av. San Martin, 12 de Octubre', 'CARINA  SCHABL ', 'Tarifa Plana', '33242635', 'Lanus - Agronomia', '2018-10-28'), ('3', 'Carrillo, Constitucion', 'CARLOS  BARBARO ', 'Tarifa Plana', '23822079', 'Lanus - Plaza Constitucion', '2018-10-28'), ('4', 'Cabildo, Av. Remedios de Escalada', 'EUGENIO JAVIER ', 'Comun', '37197575', 'Lanus - Agronomia', '2018-10-28'), ('5', 'Av. Hipólito Yrigoyen, Cabildo', 'FABRIZIO VAZQUEZ ', 'Comun', '21092302', 'Lanus - Plaza Constitucion', '2018-10-28'), ('6', 'Decay, Av. La Plata', 'FRANCISCO BARENBOIM ', 'Comun', '4989892', 'Lanus - Agronomia', '2018-10-28'), ('7', 'Av. Hipólito Yrigoyen, Cabildo', 'GABRIEL  OLIVERA ', 'Comun', '20189777', 'Lanus - Plaza Constitucion', '2018-10-28'), ('8', 'Av. La Plata, Zelarallay', 'MIGUEL VAZQUEZ ', 'Tarifa Plana', '21092312', 'Lanus - Agronomia', '2018-10-28'), ('9', 'Av. Hipólito Yrigoyen, Carlos Gardel', 'NATALI BARENBOIM ', 'Comun', '27113792', 'Lanus - Plaza Constitucion', '2018-10-28'), ('10', 'Av. San Martin, Doctor Adolfo Dickman', 'PATRICIO  SANCHEZ ', 'Comun', '28423299', 'Lanus - Agronomia', '2018-10-28'), ('16', 'Av. Belgrano, Maipu', 'ARIEL AUGSBURGER ', 'Comun', '38584115', 'Lanus - Correo Central', '2018-11-28'), ('17', 'Av. San Martin, 12 de Octubre', 'CARINA  SCHABL ', 'Tarifa Plana', '33242635', 'Lanus - Agronomia', '2018-11-28'), ('18', 'Carrillo, Constitucion', 'CARLOS  BARBARO ', 'Tarifa Plana', '23822079', 'Lanus - Plaza Constitucion', '2018-11-28'), ('19', 'Cabildo, Av. Remedios de Escalada', 'EUGENIO JAVIER ', 'Comun', '37197575', 'Lanus - Agronomia', '2018-11-28'), ('20', 'Av. Hipólito Yrigoyen, Cabildo', 'FABRIZIO VAZQUEZ ', 'Comun', '21092302', 'Lanus - Plaza Constitucion', '2018-11-28'), ('21', 'Decay, Av. La Plata', 'FRANCISCO BARENBOIM ', 'Comun', '4989892', 'Lanus - Agronomia', '2018-11-28'), ('22', 'Av. Hipólito Yrigoyen, Cabildo', 'GABRIEL  OLIVERA ', 'Comun', '20189777', 'Lanus - Plaza Constitucion', '2018-11-28'), ('23', 'Av. La Plata, Zelarallay', 'MIGUEL VAZQUEZ ', 'Tarifa Plana', '21092312', 'Lanus - Agronomia', '2018-11-28'), ('24', 'Av. Hipólito Yrigoyen, Carlos Gardel', 'NATALI BARENBOIM ', 'Comun', '27113792', 'Lanus - Plaza Constitucion', '2018-11-28'), ('25', 'Av. San Martin, Doctor Adolfo Dickman', 'PATRICIO  SANCHEZ ', 'Comun', '28423299', 'Lanus - Agronomia', '2018-11-28');
 COMMIT;
 
 -- ----------------------------
