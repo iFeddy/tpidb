@@ -1,0 +1,6 @@
+'8'	'Mercedez Benz'	'CBL289'	'EL TALLER S R L'	'Cambio de Neumaticos'	'$ 6000'	'28/10/2018'
+'9'	'Shineray'	'XXW665'	'EL TALLER S R L'	'Cambio de Aceite'	'$ 280.42'	'30/10/2018'
+'5'	'Peugeot'	'AED879'	'TALLER AMADEO'	'Control de Rutina'	'$ 500'	'19/10/2018'
+'6'	'Fiat'	'NAN000'	'TALLER AMADEO'	'Cambio de Aceite'	'$ 253.12'	'20/10/2018'
+'7'	'DFSK '	'EAX101'	'TALLER AMADEO'	'Cambio de Aceite'	'$ 250.52'	'21/10/2018'
+'10'	'Peugeot'	'AED879'	'TALLER AMADEO'	'Control de Rutina'	'$ 500'	'30/10/2018'

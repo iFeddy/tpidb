@@ -1,0 +1,5 @@
+'Shineray'	'X30'	'XXW665'	'$ 560.84'
+'Fiat'	'Ducato'	'NAN000'	'$ 506.24'
+'DFSK '	'Van Furgon C-35'	'EAX101'	'$ 501.04'
+'Mercedez Benz'	'Sprinter'	'CBL289'	'$ 12000'
+'Peugeot'	'Boxer'	'AED879'	'$ 1000'
